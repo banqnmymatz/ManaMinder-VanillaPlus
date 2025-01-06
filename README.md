@@ -35,10 +35,10 @@ A macro can be created to use the top priority consumable that is off cooldown a
 
 ### Known bugs ###
 
-- Having too many items on the active list will mess up order selection arrows for later entries.
+Having too many items on the active list will mess up order selection arrows for later entries.
 
 ### Credits ###
 
-Fork created specifically for vanilla+ server https://vanillaplus.org/ by Scyn in-game.
-Special thanks to GritUI for the original addon. All credits for the original files goes to them.
-Special thanks to Lokiy for showing me the inner workings of the addon and how to fix my bugs.
+* Fork created specifically for vanilla+ server https://vanillaplus.org/ by Scyn in-game.
+* Special thanks to GritUI for the original addon. All credits for the original files goes to them.
+* Special thanks to Lokiy for showing me the inner workings of the addon and how to fix my bugs.

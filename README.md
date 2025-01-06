@@ -23,10 +23,10 @@ A macro can be created to use the top priority consumable that is off cooldown a
 
 1.7.1
 * Added Combat Mana Potion
-* Modified Major Rejuvenation Potion mana value to match V+
+* Modified Major Rejuvenation Potion mana deficit value to match V+
 * Added Night Dragon's Breath
 * Added Razorlash Root
-* Modified Fire Ruby mana value to match V+
+* Modified Fire Ruby mana deficit value to match V+
 * Added Pulsating Crystalline Shard
 * Added Celestial Orb
 * Added Ley Orb
@@ -34,8 +34,11 @@ A macro can be created to use the top priority consumable that is off cooldown a
 * Added Scroll of Mana Channeling
 
 ### Known bugs ###
+
 - Having too many items on the active list will mess up order selection arrows for later entries.
 
+### Credits ###
 
 Fork created specifically for vanilla+ server https://vanillaplus.org/ by Scyn in-game.
-Special thanks to Lokiy for showing me the inner workings of the addon and bug-fixing.
+Special thanks to GritUI for the original addon. All credits for the original files goes to them.
+Special thanks to Lokiy for showing me the inner workings of the addon and how to fix my bugs.
